@@ -97,7 +97,7 @@ Halaman Beranda merupakan halaman yang menampilkan statistik Jumlah Artikel dan 
 
 C. Halaman Kelola Artikel
 
-Halaman Kelola Artikel adalah halaman untuk mengelola Artikel dimulai dari Tampil Artikel, Tambah Artikel, Edit Artikel dan Hapus Artikel.
+Halaman Kelola Artikel adalah halaman untuk mengelola Artikel dimulai dari Tampil Artikel, Tambah Artikel, Edit Artikel dan Hapus Artikel. Di halaman tersebut juga admin dapat menggunakan fitur pencarian untuk memudahkan dalam pencarian artikel.
 
 ![halaman artikel](img/ss-dp-8.png)
 
@@ -107,7 +107,7 @@ Halaman Kelola Artikel adalah halaman untuk mengelola Artikel dimulai dari Tampi
 
 D. Halaman Kelola Gallery
 
-Halaman Kelola Gallery adalah halaman untuk mengelola Gallery dimulai dari Tampil Gallery, Tambah Gallery, Edit Gallery dan Hapus Gallery.
+Halaman Kelola Gallery adalah halaman untuk mengelola Gallery dimulai dari Tampil Gallery, Tambah Gallery, Edit Gallery dan Hapus Gallery. Di halaman tersebut juga admin dapat menggunakan fitur pencarian untuk memudahkan dalam pencarian foto.
 
 ![halaman artikel](img/ss-dp-11.png)
 
@@ -137,5 +137,4 @@ Halaman kelola komentar adalah halaman untuk menampilkan komentar dan admin bisa
 
 ![halaman artikel](img/ss-dp-19.png)
 
-
-
+Di setiap halaman di web tersebut terdapat juga fitur darkmode yang memungkinkan pengguna mengubah warna antarmuka (UI) dari terang (light) menjadi gelap (dark).
