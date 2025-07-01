@@ -57,7 +57,7 @@ Website ini memiliki dua bagian utama:
 
 A. Halaman Home / Artikel
 
-Halaman Home atau Halaman Artikel adalah halaman yang menampilkan daftar artikel dan artikel terbaru, di halaman tersebut juga terdapat fitur pencarian, fitur kolom komentar serta fitur untuk melihar jumlah pengunjung.
+Halaman Home atau Halaman Artikel adalah halaman yang menampilkan daftar artikel dan artikel terbaru, di halaman tersebut juga terdapat fitur pencarian, fitur kolom komentar serta fitur untuk melihat jumlah pengunjung.
 
 ![halaman artikel](img/ss-dp-1.png)
 
