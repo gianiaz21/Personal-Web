@@ -4,7 +4,7 @@
 
 Personal web ini merupakan sebuah situs web pribadi yang dirancang sebagai media untuk menampilkan informasi tentang diri seseorang, seperti biodata, galeri foto, dan artikel. Aplikasi ini tidak hanya berfungsi sebagai portofolio digital, tetapi juga sebagai sarana komunikasi antara pemilik web dan pengunjung.
 
-Selain menampilkan konten untuk publik, website ini juga memiliki sistem pengelolaan yang memungkinkan admin atau pemiliknya untuk mengatur dan memelihara seluruh isi situs. Website dikembangkan menggunakan PHP dan menyimpan data menggunakan database MySQL. Tampilan antarmuka dirancang menggunakan Tailwind CSS agar responsif, modern, dan mudah dikustomisasi.
+Selain menampilkan konten untuk publik, website ini juga memiliki sistem pengelolaan yang memungkinkan admin atau pemiliknya untuk mengatur dan memelihara seluruh isi situs. Aplikasi dikembangkan menggunakan PHP dan menyimpan data menggunakan database MySQL. Tampilan antarmuka dirancang menggunakan Tailwind CSS agar responsif, modern, dan mudah dikustomisasi.
 
 Website ini memiliki dua bagian utama:
 1. **Halaman Publik**, yang dapat diakses oleh semua pengunjung.
